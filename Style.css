@@ -28,7 +28,7 @@ header{
     width: 20%;
     text-align: center;
     font-size: x-small;
-    height: 100%;
+    height: 3000px;
     background-color: rgb(7, 219, 113);
     float: right;
   color: black;
@@ -99,7 +99,7 @@ header{
     background-image: linear-gradient(to right, #15baaa,#108ba1,#0c9648);
     width: 80%;
     float: left;
-    height: 100%;
+    height: 3000px;
     font-family: sans-serif;
     color: black;
 }
@@ -156,4 +156,5 @@ a{
     text-decoration: none;
 
 }
+
 
