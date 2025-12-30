@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    height: 100px;
+    width: 10%;
+    float: left;
+}
+img{
+    height: 100px;
+    width: auto;
+    float: left;
+    border-radius: 50%;
+}
+#head{
+    height: 100px;
+    width: 90%;
+    float: right;
+}
+header{
+    height: 100px;
+    width: 100%;
+    float: right;
+    background-image: linear-gradient(to right,#020024,#020024,#00D4FF);
+}  
+#menu{
+    width: 20%;
+    text-align: center;
+    font-size: x-small;
+    height: 1000px;
+    background-color: rgb(7, 219, 113);
+    float: right;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+.video h3 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.video img {
+  width: auto;
+  border: 1px solid #000;
+  margin-bottom: 10px;
+}
+
+.video iframe {
+  margin-top: 10px;
+}
+
+
+.services-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.services-list li {
+  margin-bottom: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: rgb(91, 255, 173); 
+  border-radius: 5px;
+}
+
+.services-list h3 {
+  margin: 0 0 5px;
+  font-size: 18px;
+  color: #006400; 
+}
+
+.services-list p {
+  margin: 0;
+  font-size: 14px;
+}
+#social{
+  padding: 25px;
+   width: 15%;
+    float: right;  
+}
+#author{
+    padding: 25px;
+   width: 15%;
+    float: right; 
+}
+#web{
+    padding: 25px;
+   width: 15%;
+    float: right; 
+}
+#home{
+    padding: 25px;
+    width: 15%;
+    float: right;
+}
+
+#main{
+    background-image: linear-gradient(to right, #15baaa,#108ba1,#0c9648);
+    width: 80%;
+    float: left;
+    height: 1000px;
+    font-family: sans-serif;
+    color: black;
+}
+footer{
+    position: fixed;
+    bottom: 0%;
+    height: 40px;
+    width: 100%;
+    float: right;
+    background-image: linear-gradient(to right, #22C1C3,#FDBB2D );   
+}
+#email{
+    border: 1px solid black;   
+    padding: 10px;             
+    width: 20%;                
+    box-sizing: border-box;    
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 20%;
+    float: left;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: small;
+    font-weight: 300px;  
+
+}
+#insta img{
+    height: 20px;
+    padding: 10px 12%;
+    width: auto;
+    float: right;
+}
+#fb img{
+    height: 20px;
+    padding: 10px 12%;
+    width: auto;
+    float: right;
+}
+#yt img{
+    height: 20px;
+    padding: 10px 12%;
+    width: auto;
+    float: right;
+}
+a{
+    text-align: center;
+    color: fuchsia;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 300px;
+    font-style: oblique;
+    text-decoration: none;
+}
