@@ -197,7 +197,8 @@ a{
     font-style: oblique;
     text-decoration: none;
 }
-@media  screen and(max-width: 760px) {
+
+@media  screen and(max-width: 560px) {
   #all-cards{
   gap: 10px;
   padding: 10px;
@@ -208,7 +209,7 @@ a{
 .card{
   padding: 1%;
   border: 1px solid black;
-  width: 35%;
+  width: 75%;
   margin: 5%;
   height: auto;
   box-shadow: 5px 5px 5px 1px burlywood;
@@ -217,4 +218,6 @@ a{
   background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
   font-family: sans-serif;
 }
+}
+
 }
