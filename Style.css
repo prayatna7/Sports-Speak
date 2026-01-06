@@ -22,7 +22,7 @@ header{
     height: 100px;
     width: 100%;
     float: right;
-    background-image: linear-gradient(to right,#020024,#020024,#00D4FF);
+    background-image: linear-gradient(to right,#020024,#00D4FF);
 }  
 #menu{
     width: 20%;
@@ -227,4 +227,5 @@ iframe{
 #main{
   height: 8000px;
 }
+
 }
